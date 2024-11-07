@@ -15,3 +15,9 @@
 2024-11-06T22:14:06.650-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
 2024-11-06T22:14:06.661-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.728 seconds (process running for 3.629)
 2024-11-06T22:16:01.713-05:00  INFO [reactor-http-nio-2] o.springdoc.api.AbstractOpenApiResource   : Init duration for springdoc-openapi is: 173 ms
+2024-11-06T22:19:23.898-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Starting BucketServiceApplication using Java 17.0.5 with PID 18444 (D:\ISTA-Homologacion\Nube\bucket-service\target\classes started by Usuario in D:\ISTA-Homologacion\Nube\bucket-service)
+2024-11-06T22:19:23.900-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-11-06T22:19:26.118-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
+2024-11-06T22:19:26.127-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.654 seconds (process running for 3.477)
+2024-11-06T22:19:37.852-05:00  INFO [boundedElastic-2] t.e.e.b.service.impl.UploadServiceImpl    : Uploading file: f263d079-7056-48e5-8365-98f8669dfe44.pdf
+2024-11-06T22:19:40.165-05:00  INFO [sdk-async-response-1-0] t.e.e.b.service.impl.UploadServiceImpl    : File uploaded successfully: f263d079-7056-48e5-8365-98f8669dfe44.pdf

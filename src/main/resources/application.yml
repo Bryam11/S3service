@@ -13,7 +13,7 @@ spring:
     config:
       s3:
         bucket:
-          default: ${AWS_S3_BUCKET}
+          default: ${AWS_S3_BUCKET} #This is the bucket name
 
 springdoc:
   api-docs:
