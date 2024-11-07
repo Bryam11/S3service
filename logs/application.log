@@ -1,0 +1,17 @@
+2024-11-06T22:11:14.531-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Starting BucketServiceApplication using Java 17.0.5 with PID 29712 (D:\ISTA-Homologacion\Nube\bucket-service\target\classes started by Usuario in D:\ISTA-Homologacion\Nube\bucket-service)
+2024-11-06T22:11:14.533-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-11-06T22:11:16.593-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
+2024-11-06T22:11:16.602-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.454 seconds (process running for 3.231)
+2024-11-06T22:11:52.253-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Starting BucketServiceApplication using Java 17.0.5 with PID 43192 (D:\ISTA-Homologacion\Nube\bucket-service\target\classes started by Usuario in D:\ISTA-Homologacion\Nube\bucket-service)
+2024-11-06T22:11:52.257-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-11-06T22:11:54.381-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
+2024-11-06T22:11:54.391-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.557 seconds (process running for 3.365)
+2024-11-06T22:13:16.976-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Starting BucketServiceApplication using Java 17.0.5 with PID 29372 (D:\ISTA-Homologacion\Nube\bucket-service\target\classes started by Usuario in D:\ISTA-Homologacion\Nube\bucket-service)
+2024-11-06T22:13:16.978-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-11-06T22:13:19.060-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
+2024-11-06T22:13:19.070-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.431 seconds (process running for 3.153)
+2024-11-06T22:14:04.330-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Starting BucketServiceApplication using Java 17.0.5 with PID 20856 (D:\ISTA-Homologacion\Nube\bucket-service\target\classes started by Usuario in D:\ISTA-Homologacion\Nube\bucket-service)
+2024-11-06T22:14:04.333-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-11-06T22:14:06.650-05:00  INFO [main] o.s.b.web.embedded.netty.NettyWebServer   : Netty started on port 8080 (http)
+2024-11-06T22:14:06.661-05:00  INFO [main] t.e.e.b.BucketServiceApplication          : Started BucketServiceApplication in 2.728 seconds (process running for 3.629)
+2024-11-06T22:16:01.713-05:00  INFO [reactor-http-nio-2] o.springdoc.api.AbstractOpenApiResource   : Init duration for springdoc-openapi is: 173 ms
